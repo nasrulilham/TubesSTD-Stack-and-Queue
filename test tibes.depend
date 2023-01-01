@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1672380930 source:c:\users\habli\documents\tubes std\testing\test tibes\main.cpp
+	"Tubes.h"
+
+1672380808 c:\users\habli\documents\tubes std\testing\test tibes\tubes.h
+	<iostream>
+
+1672380289 source:c:\users\habli\documents\tubes std\testing\test tibes\tubes.cpp
+	"Tubes.h"
+
+1672380932 source:f:\tugas[t2]\struktur data\tubes\phase 22\testing\test tibes\main.cpp
+	"Tubes.h"
+
+1672380810 f:\tugas[t2]\struktur data\tubes\phase 22\testing\test tibes\tubes.h
+	<iostream>
+
+1672383056 source:f:\tugas[t2]\struktur data\tubes\phase 22\testing\test tibes\tubes.cpp
+	"Tubes.h"
+
