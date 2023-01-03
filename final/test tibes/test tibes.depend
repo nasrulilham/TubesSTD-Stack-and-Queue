@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672465771 source:c:\users\habli\documents\tubes std\testing\test tibes\main.cpp
+	"Tubes.h"
+
+1672380808 c:\users\habli\documents\tubes std\testing\test tibes\tubes.h
+	<iostream>
+
+1672465962 source:c:\users\habli\documents\tubes std\testing\test tibes\tubes.cpp
+	"Tubes.h"
+
